@@ -10,11 +10,11 @@ import os
 import time
 
 # Personal details
-student_id = "2025-4754"
-student_name = "John Richmond M. Cleofe"
+student_id = "TUPM-25-3554"
+student_name = "Joshua C. Francisco"
 
 # Base directory (Try It applied: Surname_Activity_5)
-documents_path = Path.home() / "Documents" / "Cleofe_Activity_5"
+documents_path = Path.home() / "Documents" / "Francisco_Activity_5"
 documents_path.mkdir(parents=True, exist_ok=True)
 
 
